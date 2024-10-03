@@ -1,0 +1,98 @@
+﻿/*START 768PX SIZE DEVICE*/
+@media only screen and (max-width:1024px) {
+#main-menu ul li a {font-size: 15px;}
+.home_bg {height: auto;}
+.pgone_live_market {margin-top:100px;}
+.buy-icons {margin-top:100px;}
+}
+
+/*START 768PX SIZE DEVICE*/
+@media only screen and (max-width:768px) {
+.section-title p {
+	padding: 0 10px;
+	width: 80%;
+	margin: auto;
+	position: relative;
+}
+.bg-faded {background-color:#7868e6;}
+.navbar-fixed {background: #7868e6;}
+.navbar-brand { padding-top: 20px;}
+.slicknav_menu {
+	font-size: 15px;
+	box-sizing: border-box;
+	background: transparent;
+	padding: 0;
+	margin-top: 10px;
+} 
+#main-menu ul li a {font-size: 15px;}
+.home_bg {height: auto;}
+.hero-text h2 {font-size: 40px;line-height: 46px;}
+
+.about-img img {margin-top:60px;}
+.buy-icons {margin-left:0px;}
+.app_download_img {margin-top:60px;}
+
+.contact {margin-top:60px;}
+.partner-logo img {
+	width: 130px;
+	margin-bottom: 30px;
+}
+.app_img{margin-top:60px;}
+.social_profile{margin-bottom:30px;overflow: hidden;}
+.single_address{margin-bottom: 70px;margin-top: 0;}
+.single_footer{margin-bottom:30px;}
+.newsletter-form{padding-top:0px;}
+}
+
+
+/*START 480PX SIZE DEVICE*/
+@media only screen and (max-width:480px) {
+.slicknav_menu {margin-top: -40px;}
+.slicknav_nav ul {margin-top: 30px;}
+.block-menu {
+	display: inline-block !important;
+	padding: 12px 30px !important;
+}
+.site-logo img {margin-top: 0px;}
+.hero-text h2 {
+padding-top: 200px;
+font-size: 30px;
+line-height: 40px;
+}
+.payment_img a img {
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+.single_about{margin-bottom:30px;}
+.partner-logo img {
+	width: 130px;
+	margin-bottom: 30px;
+}
+.currency_content {padding: 30px;}
+
+.faq_tab .card .card-header .btn {font-size:20px;}
+select.languageselect {width:100%;}
+
+}
+
+/*START 320PX SIZE DEVICE*/
+@media only screen and (max-width:414px) {
+.home_bg {height: auto;}
+.app_btn a {
+	display: block;
+	margin-bottom: 30px;
+	text-align: center;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+

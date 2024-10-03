@@ -1,0 +1,4 @@
+2022/09/26 02:00:46 [Communication Receiver Error] failed to listen listen tcp :11002: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/09/26 02:05:23 [Communication Receiver Error] failed to listen listen tcp :11002: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/09/26 02:17:13 [Communication Receiver Error] failed to listen listen tcp :11002: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/09/26 02:44:15 [Communication Receiver Error] failed to listen listen tcp :11002: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.

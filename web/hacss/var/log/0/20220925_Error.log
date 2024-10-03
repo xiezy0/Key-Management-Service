@@ -1,0 +1,18 @@
+2022/09/25 09:01:27 [Communication Receiver Error] failed to listen listen tcp :11000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/09/25 09:12:50 [Communication Receiver Error] failed to listen listen tcp :11000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/09/25 09:14:28 [Communication Receiver Error] failed to listen listen tcp :11000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/09/25 09:24:13 [Communication Receiver Error] failed to listen listen tcp :11000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/09/25 09:31:39 [Communication Receiver Error] failed to listen listen tcp :11000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/09/25 09:32:17 [Communication Sender Error] failed to bulid a connection with context deadline exceeded
+2022/09/25 09:32:17 [Communication Sender Error] failed to bulid a connection with context deadline exceeded
+2022/09/25 09:32:17 [Communication Sender Error] did not connect to node 2, set it to notlive: <nil>
+2022/09/25 09:32:17 [Communication Sender Error] did not connect to node 3, set it to notlive: <nil>
+2022/09/25 09:32:18 [Communication Sender Error] failed to bulid a connection with context deadline exceeded
+2022/09/25 09:32:18 [Communication Sender Error] did not connect to node 2, set it to notlive: <nil>
+2022/09/25 09:32:18 [Communication Sender Error] failed to bulid a connection with context deadline exceeded
+2022/09/25 09:32:18 [Communication Sender Error] failed to bulid a connection with context deadline exceeded
+2022/09/25 09:32:18 [Communication Sender Error] did not connect to node 3, set it to notlive: <nil>
+2022/09/25 09:32:18 [Communication Sender Error] did not connect to node 3, set it to notlive: <nil>
+2022/09/25 09:32:18 [Communication Sender Error] failed to bulid a connection with context deadline exceeded
+2022/09/25 09:32:18 [Communication Sender Error] did not connect to node 2, set it to notlive: <nil>
+2022/09/25 09:41:00 [Communication Receiver Error] failed to listen listen tcp :11000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.

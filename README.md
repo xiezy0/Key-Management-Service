@@ -1,14 +1,14 @@
 ### The repo includes implementations of the following protocols
 
-   - high-threshold asynchronous complete secret sharing
+   - high-threshold asynchronous distributed key generation (ADKG) - ADKG-V1, ADKG-V2, ADKG-V3
 
-   - asynchronous distributed key generation (ADKG) supporting both dual thresholds and field elements as secret keys
+   - Asynchronous distributed key refresh (ADKR) - ADKR-V1, ADKR-V2, ADKR-V3
 
    - various threshold cryptosystems (signatures, encryption, common coins) 
   
-   - a demo (real) program for running and visualing the ADKG protocol
+   - a demo (real) program for running and visualing the DKMS protocol (branch 1 : ADKG-V1 & ADKR-V1, branch 2 : ADKG-V2 & ADKR-V2, branch 3: ADKG-V3 & ADKR-V3)
 
-### Configuration for ADKG
+### Configuration for DKMS
 
 configuration is under etc/conf.json
 
@@ -46,7 +46,7 @@ for example
 
 denotes that run a client 100 to test the whole hacss process (hacss + aba)
 
-### A web demo for running and visualing the ADKG protocol
+### A web demo for running and visualing the DKMS protocol
 enter the web/hacss directory and run the following commands
 
     go build src/main/server/server.go
